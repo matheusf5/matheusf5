@@ -1,4 +1,4 @@
-#![Uploading ChatGPT Image 12 de nov. de 2025, 13_27_17.png…]()
+![Capa do Projeto](./A_digital_graphic_design_image_features_a_black_ba.png)
 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
