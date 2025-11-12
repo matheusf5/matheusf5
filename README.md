@@ -1,4 +1,4 @@
-![Capa do Projeto](./Capa_Matheus_Felix.jpeg)height="150"
+<img src="./Capa_Matheus_Felix.jpeg" alt="Capa do Projeto" height="150">
 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
