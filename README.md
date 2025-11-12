@@ -1,5 +1,4 @@
-👋 Olá, eu sou o Matheus Felix
-_______________________________________________________________________________________________________________________
+# 👋 Olá, eu sou o Matheus Felix
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
 💻 Focado em **desenvolvimento back-end** com **Java**, **Spring Boot** e **MySQL**  
