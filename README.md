@@ -1,7 +1,5 @@
-<div style="width: 100%; height: 200px; overflow: hidden;">
-  <img src="./Capa_Matheus_Felix.jpeg" alt="Capa do Projeto" style="width: 100%; object-fit: cover;">
-</div>
-
+👋 Olá, eu sou o Matheus Felix
+_______________________________________________________________________________________________________________________
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
 💻 Focado em **desenvolvimento back-end** com **Java**, **Spring Boot** e **MySQL**  
