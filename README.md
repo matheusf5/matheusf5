@@ -1,4 +1,4 @@
-![Capa do Projeto](./Capa_Matheus_Felix.jpeg)
+![Capa do Projeto](./Capa_Matheus_Felix.jpeg weight"50px")
 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
