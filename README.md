@@ -17,7 +17,7 @@
 ---
 
 ## 📂 Projetos em Destaque
-🔹 [Página WEB](#) — breve descrição do que ele faz  
+🔹 [Página WEB](#) — Página web desenvolvida com HTML5 e CSS3, utilizando tags semânticas e links de navegação entre páginas. Projeto criado para praticar estruturação, formatação de texto e fundamentos do desenvolvimento front-end.
 ---
 
 ## 📫 Como me encontrar
