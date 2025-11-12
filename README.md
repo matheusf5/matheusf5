@@ -1,4 +1,4 @@
-![Capa do Projeto](./A_digital_graphic_design_image_features_a_black_ba.png)
+![Capa do Projeto](./Capa_Matheus_Felix.jpeg)
 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
