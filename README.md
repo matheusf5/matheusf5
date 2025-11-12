@@ -1,4 +1,6 @@
-<img src="./Capa_Matheus_Felix.jpeg" alt="Capa do Projeto" width="100%" height="200">
+<div style="width: 100%; height: 200px; overflow: hidden;">
+  <img src="./Capa_Matheus_Felix.jpeg" alt="Capa do Projeto" style="width: 100%; object-fit: cover;">
+</div>
 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC-SP**  
