@@ -18,7 +18,9 @@
 
 ## 📂 Projetos em Destaque
 🔹 [Página WEB](https://matheusf5.github.io/portfolio_iphone17/) — Página web desenvolvida com HTML5 e CSS3, utilizando tags semânticas e links de navegação entre páginas. Projeto criado para praticar estruturação, formatação de texto e fundamentos do desenvolvimento front-end.
-🔹 [Página WEB](https://matheusf5.github.io/portfolio_iphone17/) — Página web desenvolvida com HTML5 e CSS3, utilizando tags semânticas e links de navegação entre páginas. Projeto criado para praticar estruturação, formatação de texto e fundamentos do desenvolvimento front-end.
+
+🔹 [Página WEB Romantica](https://nosso-amor-1.vercel.app/) — Este projeto foi criado com muito carinho para a pessoa que transforma meus dias em momentos mais leves, felizes e cheios de amor.
+Cada linha de código aqui representa um pedacinho da nossa história — construída com paciência, risadas, memórias e sonhos. Mais do que um simples site, este é um gesto digital do que sinto: algo que, assim como nós, foi feito para crescer, evoluir e durar. ❤️
 
 ---
 
